@@ -1,2 +1,4 @@
 # this is an ad block list
 # test how to operate git
+
+||tx.fcode.txshuku.net/c/
