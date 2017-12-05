@@ -2,3 +2,4 @@
 # test how to operate git
 
 ||tx.fcode.txshuku.net
+||share.iclient.ifeng.com
