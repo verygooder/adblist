@@ -3,3 +3,4 @@
 
 ||tx.fcode.txshuku.net
 ||share.iclient.ifeng.com
+||i.ifeng.com$script
