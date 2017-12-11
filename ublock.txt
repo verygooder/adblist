@@ -1,0 +1,170 @@
+! 2017/11/15 下午1:34:40 https://www.baidu.com/baidu?wd=13&tn=monline_dg&ie=utf-8
+www.baidu.com###content_right
+
+! 2017/11/16 下午12:47:51 http://mp.weixin.qq.com/s/b6s1GrWr2D7QJw9cNvrSFA
+mp.weixin.qq.com##.qr_code_pc
+
+! 2017/11/23 上午9:23:11 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com###celebrity
+
+! 2017/11/23 上午9:23:19 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com###my_tieba_mod
+
+! 2017/11/23 上午9:23:26 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com##.app_download_box.region_bright
+
+! 2017/11/23 上午9:23:32 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com##.topic_list_box
+
+! 2017/11/23 上午9:23:41 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com##.right_bright.right_section > div:nth-of-type(5)
+
+! 2017/11/23 上午9:23:46 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com###tieba-notice
+
+! 2017/11/23 上午9:25:01 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
+tieba.baidu.com##.tbui_aside_float_bar
+
+! 2017/11/23 上午9:33:24 http://www.acfun.cn/v/list110/index.htm
+www.acfun.cn###footer
+
+! 2017/11/25 下午4:15:14 https://www.bilibili.com/
+www.bilibili.com##.report-wrap-module.bili-footer.footer
+
+! 2017/11/25 下午4:24:44 http://news.163.com/17/1125/06/D42M81CU000187V9.html
+||img1.cache.netease.com/f2e/www/index2014/images/sprite_dw2.png$image
+
+! 2017/11/28 下午1:41:44 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.celebrity.aside_region
+
+! 2017/11/28 下午1:41:49 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.my_tieba.aside_region
+
+! 2017/11/28 下午1:41:55 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.app_download_box.aside_region
+
+! 2017/11/28 下午1:42:00 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.j_forum_info.forum_info.aside_region
+
+! 2017/11/28 下午1:42:05 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.j_zyq_mod_link.zyq_mod_link.aside_region
+
+! 2017/11/28 下午1:42:11 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.j_zyq_mod_friend.zyq_mod_friend.aside_region
+
+! 2017/11/28 下午1:42:22 https://tieba.baidu.com/f?kw=cataclysmdda&ie=utf-8&tp=0
+tieba.baidu.com##.search_back_box
+
+! 2017/11/29 下午12:35:05 https://www.zhihu.com/question/40580333
+www.zhihu.com##.Footer
+
+! 2017/11/29 下午12:35:15 https://www.zhihu.com/question/40580333
+www.zhihu.com##.RelatedLives-title.Card-header
+
+! 2017/11/29 下午12:35:22 https://www.zhihu.com/question/40580333
+www.zhihu.com##.RelatedLives-list.Card-section
+
+! 2017/12/1 下午4:28:41 http://bbs.tiexue.net/post_3910564_1.html
+||r.itiexue.net/tiexue/bbs/daurl713.jpg$image
+
+! 2017/12/4 下午12:02:16 http://www.qipamaijia.com/
+www.qipamaijia.com###list_summary
+
+! 2017/12/5 下午1:40:26 https://tieba.baidu.com/index.html
+tieba.baidu.com##.clearfix.top-sec
+
+! 2017/12/5 下午1:43:04 http://www.dxy.cn/
+www.dxy.cn###goTop > div > ul
+
+! 2017/12/5 下午5:17:00 https://t.bilibili.com/
+||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/rocket_top.bcc748c.png$image
+
+! 2017/12/7 上午9:24:42 http://www.qipamaijia.com/
+||www.qipamaijia.com/Uploads/Adver/*$image
+
+! 2017/12/7 上午9:25:02 http://www.qipamaijia.com/
+www.qipamaijia.com##.clearfix.foot-nav
+
+! 2017/12/7 上午9:44:45 http://news.163.com/
+news.163.com##.none.ns_sidebar
+
+! 2017/12/7 上午9:48:45 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+comment.news.163.com##.top-banner.wrapper
+
+! 2017/12/7 上午9:49:10 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+comment.news.163.com##.sidebar
+
+! 2017/12/7 上午9:49:47 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+comment.news.163.com###feedBackBtn
+
+! 2017/12/7 上午9:50:01 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+||img5.cache.netease.com/tie/images/return-top.png$image
+
+! 2017/12/7 上午9:50:09 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+163.com###returnTop > .js-statistics
+
+! 2017/12/7 上午9:50:14 http://comment.news.163.com/news2_bbs/D506IHJ9000187VE.html
+163.com###returnTop
+
+! 2017/12/7 上午9:51:08 http://www.163.com/
+163.com##.ns_sidebar
+
+! 2017/12/7 上午9:52:38 http://news.163.com/17/1207/02/D514F9DG0001899O.html
+163.com###epContentRight
+
+! 2017/12/7 上午9:52:56 http://news.163.com/17/1207/02/D514F9DG0001899O.html
+news.163.com##.ns-side-totop
+
+! 2017/12/7 上午9:53:46 http://www.163.com/
+www.163.com##.subfoot_wrap.ne_area
+
+! 2017/12/7 上午10:07:09 https://www.bilibili.com/
+www.bilibili.com##.elevator-module
+
+! 2017/12/7 上午10:10:54 https://www.bing.com/?scope=web&FORM=MOZLBR&pc=MOZI
+www.bing.com###crs_pane
+
+! 2017/12/7 上午10:12:55 https://www.zhihu.com/
+www.zhihu.com##.Sticky > .Card:nth-of-type(1)
+
+! 2017/12/7 上午10:13:52 https://www.zhihu.com/question/263382591/answer/271853421
+www.zhihu.com##.Sticky > .Card:nth-of-type(2)
+
+! 2017/12/7 上午11:20:35 http://comment.news.163.com/news2_bbs/D50OF9DN0001899O.html
+comment.news.163.com##iframe[src="http://www.bobo.com/special/mod-follow/"]
+
+! 2017/12/7 上午11:23:25 http://www.ifeng.com/
+www.ifeng.com###wx
+
+! 2017/12/7 上午11:24:08 http://news.ifeng.com/
+ifeng.com###wx
+
+! 2017/12/7 下午1:38:28 https://zh.moegirl.org/%E6%A0%BC%E6%8B%89%E6%91%A9%E6%A0%B9#
+||img.moegirl.org/donate-help.png$image
+
+! 2017/12/7 下午1:40:34 https://zh.moegirl.org/%E5%85%AC%E4%BA%A4%E8%BD%A6(%E6%80%A7%E4%BF%9A%E8%AF%AD)#
+||img.moegirl.org/donate-help.png$image
+
+! 2017/12/7 下午1:41:57 https://zh.moegirl.org/%E9%AA%86%E9%A9%BC%E8%B6%BE#
+zh.moegirl.org###footer
+
+! 2017/12/7 下午1:42:18 https://zh.moegirl.org/Mainpage
+||img.moegirl.org/donate-help.png$image
+
+! 2017/12/7 下午1:44:00 https://zh.moegirl.org/%E5%B9%B2%E7%89%A9%E5%A6%B9%E5%B0%8F%E5%9F%8B#
+img.moegirl.org/donate-help.png$domain=zh.moegirl.org,image
+
+! 2017/12/8 上午9:25:48 http://money.163.com/17/1208/07/D54AF98J00258169.html
+money.163.com##.qrcode_1301
+
+! 2017/12/8 上午9:26:25 http://money.163.com/17/1207/11/D524AOUO002580T4.html
+163.com###epContentRight
+
+! 2017/12/8 上午9:35:05 http://money.163.com/17/1207/11/D524AOUO002580T4.html
+163.com##.ns-side-totop
+
+! 2017/12/8 上午9:38:04 https://zh.moegirl.org/%E5%AD%99%E4%B8%80%E5%B3%B0#
+moegirl.org/donate-help.png$domain=zh.moegirl.org,image
+
+! 2017/12/8 上午9:54:43 https://www.bilibili.com/video/av17042868/
+www.bilibili.com##.footer
