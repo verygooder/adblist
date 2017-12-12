@@ -168,3 +168,6 @@ moegirl.org/donate-help.png$domain=zh.moegirl.org,image
 
 ! 2017/12/8 上午9:54:43 https://www.bilibili.com/video/av17042868/
 www.bilibili.com##.footer
+
+! 2017/12/12 上午11:01:39 https://www.baidu.com/
+www.baidu.com###bottom_container
