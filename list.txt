@@ -6,4 +6,4 @@
 ||p1.ifengimg.com/a/2017/1130/icon_hongbao2.png
 ||www.avtb007.com##.ads
 ||www.avtb007.com##.ads-player
-||ifeng.com$image
+||ifeng.com/$image
