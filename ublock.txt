@@ -166,9 +166,6 @@ money.163.com##.qrcode_1301
 ! 2017/12/8 上午9:38:04 https://zh.moegirl.org/%E5%AD%99%E4%B8%80%E5%B3%B0#
 moegirl.org/donate-help.png$domain=zh.moegirl.org,image
 
-! 2017/12/8 上午9:54:43 https://www.bilibili.com/video/av17042868/
-www.bilibili.com##.footer
-
 ! 2017/12/12 上午11:01:39 https://www.baidu.com/
 www.baidu.com###bottom_container
 
@@ -193,3 +190,5 @@ www.zhihu.com##.HitQrcode
 ! 2017/12/25 上午9:33:41 http://xueshu.baidu.com/s?wd=%E5%BF%83%E8%84%8F%20%E6%96%B0%20%E6%A0%87%E8%AE%B0&pn=20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2017%2C%2B%7D&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&bcp=2&sc_hit=1&rsv_page=1
 xueshu.baidu.com##.pagefoot
 
+! 2017/12/28 下午1:24:49 https://bangumi.bilibili.com/movie/12382
+bilibili.com##.footer
