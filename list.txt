@@ -11,3 +11,6 @@ http://www.wuyouhui.net/ad.js
 m.wuyouhui.net##.imgBox
 m.wuyouhui.net##.img_001 globalPadding globalbottom10
 http://m.wuyouhui.net/statics/pinglun/js/changyan.js
+m.wuyouhui.net##.header
+m.wuyouhui.net##.autoHeight.nav
+m.wuyouhui.net##.bottom
