@@ -9,3 +9,4 @@
 ||ifeng.com/$image
 http://www.wuyouhui.net/ad.js
 m.wuyouhui.net##.imgBox
+m.wuyouhui.net##.img_001 globalPadding globalbottom10
