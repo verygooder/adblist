@@ -8,3 +8,4 @@
 ||www.avtb007.com##.ads-player
 ||ifeng.com/$image
 http://www.wuyouhui.net/ad.js
+m.wuyouhui.net##.imgBox
