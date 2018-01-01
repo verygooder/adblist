@@ -193,3 +193,8 @@ xueshu.baidu.com##.pagefoot
 ! 2017/12/28 下午1:24:49 https://bangumi.bilibili.com/movie/12382
 bilibili.com##.footer
 
+! 2018/1/1 上午10:07:01 https://www.bilibili.com/read/cv128639
+www.bilibili.com##.draft-holder-block
+
+! 2018/1/1 上午10:20:38 http://auto.163.com/18/0101/09/D729RPS6000884MM.html
+163.com###module-float-ask-price
