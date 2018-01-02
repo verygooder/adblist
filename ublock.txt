@@ -199,6 +199,9 @@ www.bilibili.com##.draft-holder-block
 ! 2018/1/1 上午10:20:38 http://auto.163.com/18/0101/09/D729RPS6000884MM.html
 163.com###module-float-ask-price
 
-! 2017/12/29 下午2:38:26 http://www.medsci.cn/sci/icd-10.do?action=search
-www.medsci.cn###floatDiv
+! 2018/1/2 上午11:25:23 http://www.medsci.cn/sci/index.do?action=search#result
+medsci.cn###floatDiv
+
+! 2018/1/2 上午11:25:33 http://www.medsci.cn/sci/index.do?action=search#result
+medsci.cn##.ewm_fud
 
