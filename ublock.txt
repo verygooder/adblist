@@ -219,3 +219,6 @@ www.avtb008.com##.ads-player
 
 ! 2018/1/3 下午3:15:53 https://www.bilibili.com/read/cv112442?from=category_0
 bilibili.com##.article-action
+
+! 2018/1/3 下午3:45:22 https://www.bilibili.com/video/av8286423/
+bilibili.com###arc_toolbar_report
