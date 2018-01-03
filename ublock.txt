@@ -255,3 +255,10 @@ acfun.cn##.a-column-left
 
 ! 2018/1/3 下午9:02:40 http://www.youku.com/
 youku.com##.g-footer
+
+! 2018/1/3 下午9:17:54 https://www.zhihu.com/question/56997296/answer/287733889
+zhihu.com##.KanshanDiversion
+
+! 2018/1/3 下午9:19:07 https://www.zhihu.com/question/56997296/answer/287733889
+zhihu.com##.is-fixed.Sticky > .Card:nth-of-type(4)
+
