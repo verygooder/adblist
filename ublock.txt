@@ -253,4 +253,5 @@ acfun.cn##.articleOperateBit
 ! 2018/1/3 下午8:51:06 http://www.acfun.cn/v/list63/index.htm
 acfun.cn##.a-column-left
 
-
+! 2018/1/3 下午9:02:40 http://www.youku.com/
+youku.com##.g-footer
