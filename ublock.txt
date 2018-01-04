@@ -265,3 +265,15 @@ zhihu.com##.is-fixed.Sticky > .Card:nth-of-type(4)
 ! 2018/1/4 上午10:34:59 http://news.163.com/18/0104/01/D7967653000187VI.html#f=post1603_tab_news
 163.com###post_recommend
 
+! 2018/1/4 上午11:09:04 http://www.sohu.com/a/112534244_211526
+sohu.com###right-side-bar
+
+! 2018/1/4 上午11:09:46 http://www.sohu.com/a/112534244_211526
+sohu.com##.groom-read
+
+! 2018/1/4 上午11:10:04 http://www.sohu.com/a/112534244_211526
+sohu.com##.left.column
+
+! 2018/1/4 上午11:10:27 http://www.sohu.com/a/112534244_211526
+sohu.com###sogou-words
+
