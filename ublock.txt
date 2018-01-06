@@ -288,3 +288,11 @@ medsci.cn###InviteWindow
 
 ! 2018/1/5 下午4:46:30 https://www.zhihu.com/question/264868698/answer/287654653
 zhihu.com##.Sticky > .Card:nth-of-type(4))
+
+! 2018/1/6 下午5:01:54 https://tieba.baidu.com/index.html
+tieba.baidu.com##.r-right-sec
+
+! 2018/1/6 下午5:02:24 https://tieba.baidu.com/index.html
+tieba.baidu.com###spage-tbshare-container
+
+
