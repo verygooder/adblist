@@ -295,4 +295,24 @@ tieba.baidu.com##.r-right-sec
 ! 2018/1/6 下午5:02:24 https://tieba.baidu.com/index.html
 tieba.baidu.com###spage-tbshare-container
 
+! 2018/1/8 上午10:47:34 http://www.dm5.com/m51897/#ipg2
+dm5.com##.commentList
 
+! 2018/1/8 上午10:47:45 http://www.dm5.com/m51897/#ipg2
+dm5.com##.inputBar
+
+! 2018/1/8 上午10:47:52 http://www.dm5.com/m51897/#ipg2
+dm5.com##.today
+
+! 2018/1/8 上午10:48:08 http://www.dm5.com/m51897/#ipg2
+dm5.com###cp_footer
+
+! 2018/1/8 上午10:48:52 http://www.dm5.com/m51897/#ipg3
+dm5.com##.bai_h.view_user
+
+! 2018/1/8 上午10:49:11 http://www.dm5.com/m51897/#ipg3
+dm5.com##.topTool
+
+! 2018/1/8 上午10:49:34 http://www.dm5.com/m51897/#ipg3
+dm5.com##.viewBar > div:nth-of-type(2)
+)
