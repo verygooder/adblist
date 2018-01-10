@@ -315,4 +315,19 @@ dm5.com##.topTool
 
 ! 2018/1/8 上午10:49:34 http://www.dm5.com/m51897/#ipg3
 dm5.com##.viewBar > div:nth-of-type(2)
+
+! 2018/1/10 下午5:20:31 http://www.163.com/
+163.com##.common_nav
+
+! 2018/1/10 下午5:20:43 http://www.163.com/
+163.com##.hd
+
+! 2018/1/10 下午5:22:24 http://shenzhen.news.163.com/18/0110/08/D7PB3SLP04178D6R.html
+163.com##.post_btmshare
+
+! 2018/1/10 下午5:22:40 http://shenzhen.news.163.com/18/0110/08/D7PB3SLP04178D6R.html
+163.com###post_comment_area
+
+! 2018/1/10 下午5:23:06 http://shenzhen.news.163.com/18/0110/08/D7PB3SLP04178D6R.html
+163.com##.post_topshare_wrap
 )
