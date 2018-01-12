@@ -2,7 +2,7 @@
 www.baidu.com###content_right
 
 ! 2017/11/16 下午12:47:51 http://mp.weixin.qq.com/s/b6s1GrWr2D7QJw9cNvrSFA
-mp.weixin.qq.com##.qr_code_pc
+weixin.qq.com##.qr_code_pc
 
 ! 2017/11/23 上午9:23:11 https://tieba.baidu.com/p/3557466556?red_tag=1297300129
 tieba.baidu.com###celebrity
@@ -336,3 +336,8 @@ http://static.jfrft.com/jac/js/jquery.lazyload.min.js
 ! 2018/1/12 上午11:33:58 http://www.163.com/
 163.com##.hd
 
+! 2018/1/12 下午1:23:06 https://www.baidu.com/
+baidu.com###qrcode
+
+! 2018/1/12 下午1:23:19 https://www.baidu.com/
+baidu.com###ftCon
