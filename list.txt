@@ -15,3 +15,14 @@ m.wuyouhui.net##.header
 m.wuyouhui.net##.autoHeight.nav
 m.wuyouhui.net##.bottom
 m.wuyouhui.net###m_r_title
+http://m.mm131.com/css/mmua.js
+https://hm.baidu.com/hm.js
+http://m.mm131.com/css/at.js
+http://m.mm131.com/css/count.js
+m.mm131.com###pcjjbdse
+m.mm131.com###footer
+m.mm131.com###bdfxzrir
+m.mm131.com###mrasamys
+m.mm131.com##.single-post-footer.post-footer
+m.mm131.com##.other
+
