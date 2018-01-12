@@ -330,4 +330,9 @@ dm5.com##.viewBar > div:nth-of-type(2)
 
 ! 2018/1/10 下午5:23:06 http://shenzhen.news.163.com/18/0110/08/D7PB3SLP04178D6R.html
 163.com##.post_topshare_wrap
-)
+
+http://static.jfrft.com/jac/js/jquery.lazyload.min.js
+
+! 2018/1/12 上午11:33:58 http://www.163.com/
+163.com##.hd
+
