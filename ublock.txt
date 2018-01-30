@@ -366,7 +366,10 @@ neuro.dxy.cn##.adv250x250
 tianya.cn###bbs_float_menu
 
 ! 2018/1/30 下午2:19:27 http://bbs.tianya.cn/post-no05-131661-1.shtml
-tianya.cn###relevant_rom_all_w
+bbs.tianya.cn###relevant_rom_all_w
 
 ! 2018/1/30 下午2:19:46 http://bbs.tianya.cn/post-no05-131661-1.shtml
-tianya.cn###niuren_ifm1
+bbs.tianya.cn###niuren_ifm1
+
+! 2018/1/30 下午3:06:25 http://bbs.tianya.cn/post-no05-131661-1.shtml
+bbs.tianya.cn###dsvips72959
