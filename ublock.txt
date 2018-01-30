@@ -347,3 +347,26 @@ baidu.com###ftCon
 
 ! 2018/1/19 上午9:44:57 http://jandan.net/pond/page-22#comments
 jandan.net###sidebar > ul
+
+http://static.ws.126.net/f2e/www/index20170701/images/index2018_960_bg.jpg
+
+! 2018/1/17 下午4:45:52 http://neuro.dxy.cn/article/514768
+neuro.dxy.cn###goTop
+
+! 2018/1/17 下午4:46:19 http://neuro.dxy.cn/article/514768
+neuro.dxy.cn##.adv250x250
+
+! 2018/1/18 下午12:56:25 http://www.163.com/
+163.com##.fex_logo
+
+! 2018/1/18 下午12:56:38 http://www.163.com/
+163.com##.festival_main
+
+! 2018/1/30 下午2:19:11 http://bbs.tianya.cn/post-no05-131661-1.shtml
+tianya.cn###bbs_float_menu
+
+! 2018/1/30 下午2:19:27 http://bbs.tianya.cn/post-no05-131661-1.shtml
+tianya.cn###relevant_rom_all_w
+
+! 2018/1/30 下午2:19:46 http://bbs.tianya.cn/post-no05-131661-1.shtml
+tianya.cn###niuren_ifm1
