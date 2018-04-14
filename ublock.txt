@@ -377,3 +377,11 @@ bbs.tianya.cn###dsvips72959
 ! 2018/2/26 上午9:53:25 https://space.bilibili.com/1276787#/
 bilibili.com##.to-top
 
+! 2018/4/9 下午9:41:06 http://www.444avtb.com/qunjiao/
+www.444avtb.com##.ads
+
+! 2018/4/11 下午9:34:17 http://www.444avtb.com/
+www.444avtb.com##img[src="http://ww3.sinaimg.cn/large/0060lm7Tly1fotvzvxb5ag30qo01owrd.gif"]
+
+! 2018/4/11 下午9:34:22 http://www.444avtb.com/
+||ww3.sinaimg.cn/large/0060lm7Tly1foxj5x3en5g30rs0287ae.gif$image
