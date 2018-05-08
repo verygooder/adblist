@@ -385,3 +385,27 @@ www.444avtb.com##img[src="http://ww3.sinaimg.cn/large/0060lm7Tly1fotvzvxb5ag30qo
 
 ! 2018/4/11 下午9:34:22 http://www.444avtb.com/
 ||ww3.sinaimg.cn/large/0060lm7Tly1foxj5x3en5g30rs0287ae.gif$image
+
+! 2018/1/19 上午9:44:57 http://jandan.net/pond/page-22#comments
+jandan.net###sidebar > ul
+
+! 2018/2/7 上午9:52:51 http://www.cartoonmad.com/comic/155300022024004.html
+www.cartoonmad.com##body > table > tbody > tr:nth-of-type(4)
+
+! 2018/2/7 上午9:55:39 http://www.cartoonmad.com/comic/155300022024014.html
+www.cartoonmad.com##tr:nth-of-type(5) > td > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+
+! 2018/2/12 下午5:11:53 https://www.zhihu.com/question/36336562
+www.zhihu.com##.Kok.Lottie > svg
+
+! 2018/2/12 下午5:12:02 https://www.zhihu.com/question/36336562
+www.zhihu.com##.Kok.Lottie
+
+! 2018/5/8 下午1:23:49 https://www.toutiao.com/a6548675882410574083/
+www.toutiao.com##.index-left.bui-left
+
+! 2018/5/8 下午1:24:19 https://www.toutiao.com/a6548675882410574083/
+www.toutiao.com##.index-right.bui-right
+
+! 2018/5/8 下午1:24:47 https://www.toutiao.com/a6548675882410574083/
+www.toutiao.com##.answer-wrapper-inline.answerEditor)
