@@ -408,4 +408,4 @@ www.toutiao.com##.index-left.bui-left
 www.toutiao.com##.index-right.bui-right
 
 ! 2018/5/8 下午1:24:47 https://www.toutiao.com/a6548675882410574083/
-www.toutiao.com##.answer-wrapper-inline.answerEditor)
+www.toutiao.com##.answer-wrapper-inline.answerEditor
