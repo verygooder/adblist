@@ -418,3 +418,6 @@ www.toutiao.com##.detail-comment
 
 ! 2018/6/15 下午1:42:05 https://www.toutiao.com/a6567140779402199555/
 www.toutiao.com##.detail-feed
+
+! 2018/6/25 下午5:28:56 https://www.toutiao.com/
+www.toutiao.com##.slide.bui-box
