@@ -421,3 +421,9 @@ www.toutiao.com##.detail-feed
 
 ! 2018/6/25 下午5:28:56 https://www.toutiao.com/
 www.toutiao.com##.slide.bui-box
+
+! 2018/6/25 下午5:43:40 https://www.toutiao.com/
+www.toutiao.com###rightModule
+
+! 2018/6/25 下午5:43:56 https://www.toutiao.com/
+www.toutiao.com##.toolbar
