@@ -427,3 +427,13 @@ www.toutiao.com###rightModule
 
 ! 2018/6/25 下午5:43:56 https://www.toutiao.com/
 www.toutiao.com##.toolbar
+
+! 2018/6/26 下午12:02:28 https://www.toutiao.com/
+www.toutiao.com##.toutiao-header
+
+! 2018/6/26 下午12:03:50 https://www.toutiao.com/ch/funny/
+www.toutiao.com##.index-modules.y-right
+
+! 2018/6/26 下午12:04:27 https://www.toutiao.com/ch/funny/
+www.toutiao.com##.action-feedback
+
