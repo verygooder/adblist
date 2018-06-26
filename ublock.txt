@@ -437,3 +437,5 @@ www.toutiao.com##.index-modules.y-right
 ! 2018/6/26 下午12:04:27 https://www.toutiao.com/ch/funny/
 www.toutiao.com##.action-feedback
 
+! 2018/6/26 下午12:08:05 https://www.zhihu.com/
+www.zhihu.com##[href="//www.zhihu.com"]]
