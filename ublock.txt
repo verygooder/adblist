@@ -439,3 +439,15 @@ www.toutiao.com##.action-feedback
 
 ! 2018/6/26 下午12:08:05 https://www.zhihu.com/
 www.zhihu.com##[href="//www.zhihu.com"]]
+
+! 2018/6/26 下午12:11:01 https://www.zhihu.com/
+www.zhihu.com##.Icon--logo.ZhihuLogo.Icon
+
+! 2018/7/3 上午9:56:38 https://www.zhihu.com/question/39953134?sort=created
+www.zhihu.com##.is-fixed.AppHeader.Sticky
+
+! 2018/7/3 上午11:26:07 https://www.zhihu.com/
+www.zhihu.com##.CornerButtons
+
+! 2018/7/3 上午11:26:55 https://www.zhihu.com/question/19806854/answer/430250806
+www.zhihu.com##.Sticky > div.Card:nth-of-type(4)
