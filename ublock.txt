@@ -410,9 +410,6 @@ www.toutiao.com##.index-right.bui-right
 ! 2018/5/8 下午1:24:47 https://www.toutiao.com/a6548675882410574083/
 www.toutiao.com##.answer-wrapper-inline.answerEditor
 
-! bdstatic.com
-bdstatic.com
-
 ! 2018/6/15 下午1:41:46 https://www.toutiao.com/a6567140779402199555/
 www.toutiao.com##.detail-comment
 
