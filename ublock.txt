@@ -448,3 +448,7 @@ www.zhihu.com##.CornerButtons
 
 ! 2018/7/3 上午11:26:55 https://www.zhihu.com/question/19806854/answer/430250806
 www.zhihu.com##.Sticky > div.Card:nth-of-type(4)
+
+! 2018/7/31 上午10:30:52 https://www.toutiao.com/
+www.toutiao.com##.index-channel.bui-left > div
+
