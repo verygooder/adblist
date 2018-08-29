@@ -452,3 +452,6 @@ www.zhihu.com##.Sticky > div.Card:nth-of-type(4)
 ! 2018/7/31 上午10:30:52 https://www.toutiao.com/
 www.toutiao.com##.index-channel.bui-left > div
 
+! 2018/8/29 下午5:20:59 https://www.toutiao.com/
+www.toutiao.com##.ugcBox
+
