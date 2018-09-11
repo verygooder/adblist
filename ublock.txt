@@ -455,3 +455,18 @@ www.toutiao.com##.index-channel.bui-left > div
 ! 2018/8/29 下午5:20:59 https://www.toutiao.com/
 www.toutiao.com##.ugcBox
 
+! 2018/7/31 上午10:30:52 https://www.toutiao.com/
+www.toutiao.com##.index-channel.bui-left > div
+
+! 2018/8/3 下午3:30:25 https://www.zhihu.com/question/31439506/answer/70129876
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn > div > .is-fixed.Sticky
+
+! 2018/8/29 下午5:20:59 https://www.toutiao.com/
+www.toutiao.com##.ugcBox
+
+! 2018/9/5 下午4:02:02 https://duckduckgo.com/?q=ck2+cb+edit&t=h_&ia=web
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+
+! 2018/9/11 上午11:50:21 https://duckduckgo.com/
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+
