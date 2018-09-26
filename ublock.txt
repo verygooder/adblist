@@ -470,3 +470,12 @@ duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
 ! 2018/9/11 上午11:50:21 https://duckduckgo.com/
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
 
+! 2018/9/26 上午10:15:59 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com##.footer
+
+! 2018/9/26 上午10:16:07 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com###bottom_spacing2
+
+! 2018/9/26 上午10:16:18 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
+
