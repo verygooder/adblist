@@ -479,3 +479,16 @@ duckduckgo.com###bottom_spacing2
 ! 2018/9/26 上午10:16:18 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
 duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
 
+! 2018/9/26 上午10:15:59 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com##.footer
+
+! 2018/9/26 上午10:16:07 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com###bottom_spacing2
+
+! 2018/9/26 上午10:16:18 https://duckduckgo.com/?q=quartz+ios&t=h_&ia=web
+duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
+
+! 2018/12/3 上午9:52:17 https://edition.cnn.com/2018/12/02/politics/trump-xi-meeting-trade-war-analysis/index.html
+edition.cnn.com###player-large-media_0
+
+baijiahao.baidu.com
