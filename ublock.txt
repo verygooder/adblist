@@ -498,3 +498,7 @@ tieba.baidu.com###search_logo_small
 
 ! 2019/2/14 下午5:00:11 https://tieba.baidu.com/p/6035489934
 tieba.baidu.com###j_core_title_wrap
+
+! 2019/3/26 https://edition.cnn.com
+edition.cnn.com##.show.js-share-bar.m-share__bar.js-share-rail.m-share__rail.m-share
+
