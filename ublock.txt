@@ -502,3 +502,6 @@ tieba.baidu.com###j_core_title_wrap
 ! 2019/3/26 https://edition.cnn.com
 edition.cnn.com##.show.js-share-bar.m-share__bar.js-share-rail.m-share__rail.m-share
 
+! 2019/4/2 https://www.reddit.com
+www.reddit.com##._30BbATRhFv3V83DHNDjJAO
+
