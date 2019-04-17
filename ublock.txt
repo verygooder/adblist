@@ -505,3 +505,8 @@ edition.cnn.com##.show.js-share-bar.m-share__bar.js-share-rail.m-share__rail.m-s
 ! 2019/4/2 https://www.reddit.com
 www.reddit.com##._30BbATRhFv3V83DHNDjJAO
 
+! 2019/4/17 https://www.nytimes.com
+www.nytimes.com##.css-4g4cvq
+www.nytimes.com##.css-v89234 > div > div
+www.nytimes.com##.e1x0szx60.css-1xz93ux.standard.shown.meter_default
+
