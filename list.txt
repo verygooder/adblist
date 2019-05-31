@@ -29,4 +29,5 @@ m.mm131.com###iesrcrmp
 http://m.mm131.com/css/poqwzm.js
 #m.mm131.com###header
 m.mm131.com##.post-header
-
+||www.avtb*.com##.ads
+||www.avtb*.com##.ads-player
