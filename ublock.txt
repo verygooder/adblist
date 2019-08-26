@@ -510,3 +510,11 @@ www.nytimes.com##.css-4g4cvq
 www.nytimes.com##.css-v89234 > div > div
 www.nytimes.com##.e1x0szx60.css-1xz93ux.standard.shown.meter_default
 
+! 2019/5/13 https://www.zhihu.com
+www.zhihu.com##.GlobalSideBar > div > .is-fixed.Sticky
+
+! 2019/8/26 https://www.nytimes.com
+www.nytimes.com##div.StoryBodyCompanionColumn.css-1fanzo5:nth-of-type(1) > .css-o6xoe7
+www.nytimes.com###app > div > div > div:nth-of-type(1)
+www.nytimes.com##.e1x0szx60.css-16r57cp.standard.shown.meter_default
+
