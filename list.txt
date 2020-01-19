@@ -31,11 +31,11 @@ http://m.mm131.com/css/poqwzm.js
 m.mm131.com##.post-header
 ||www.avtb*.com##.ads
 ||www.avtb*.com##.ads-player
-m.dm5.com##.commentList
-m.dm5.com##.inputBar
-m.dm5.com##.today
-m.dm5.com###cp_footer
-m.dm5.com##.bai_h.view_user
-m.dm5.com##.topTool
-m.dm5.com##.viewBar > div:nth-of-type(2)
-m.dm5.com##.guide
+||m.dm5.com##.commentList
+||m.dm5.com##.inputBar
+||m.dm5.com##.today
+||m.dm5.com###cp_footer
+||m.dm5.com##.bai_h.view_user
+||m.dm5.com##.topTool
+||m.dm5.com##.viewBar > div:nth-of-type(2)
+||m.dm5.com##.guide
