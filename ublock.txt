@@ -521,3 +521,41 @@ www.nytimes.com##.e1x0szx60.css-16r57cp.standard.shown.meter_default
 ! 2019/9/27 https://www.bilibili.com
 www.bilibili.com###fixed_app_download
 
+! 2019/9/27 https://www.bilibili.com
+www.bilibili.com###fixed_app_download
+www.bilibili.com###home_popularize
+
+! 2019/10/10 https://www.toutiao.com
+www.toutiao.com##.feed-infinite-wrapper > ul > li:nth-of-type(1)
+
+! 2019/10/31 https://www.toutiao.com
+www.toutiao.com##.feed-infinite-wrapper > ul > li:nth-of-type(2)
+
+! 2019/12/11 https://www.cnn.com
+www.cnn.com###mBa3VtTHEOplayerCBa > div:nth-of-type(1)
+www.cnn.com###player-large-media_0
+
+! 2019/12/24 https://www.foxnews.com
+www.foxnews.com##.contain
+
+! 2020/5/25 https://www.zhihu.com
+www.zhihu.com##.GlobalSideBar
+
+! 2020/6/2 https://edition.cnn.com
+edition.cnn.com##.js-pg-rail-tall__head.pg-rail-tall__head
+
+! 2020/7/7 https://www.zhihu.com
+www.zhihu.com##.css-1qefhqu
+
+! 2020/7/31 https://edition.cnn.com
+edition.cnn.com###nav__plain-header
+
+! 2020/8/17 https://www.foxnews.com
+www.foxnews.com##.pre-content
+
+! 2020-10-13 https://www.bookscool.com
+www.bookscool.com##.bmd-btn-fab.btn-secondary.btn
+
+! 2020-11-05 https://www.foxnews.com
+www.foxnews.com###elections-iframe-banner
+
